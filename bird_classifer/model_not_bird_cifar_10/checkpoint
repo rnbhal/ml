@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\rbhal\\Documents\\github\\ml\\bird_recognition\\bird-classifier_epoch_25.tfl"
+all_model_checkpoint_paths: "C:\\Users\\rbhal\\Documents\\github\\ml\\bird_recognition\\bird-classifier_epoch_25.tfl"
